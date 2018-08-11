@@ -1,23 +1,26 @@
 fileFormatVersion: 2
-guid: eb0261674ba89284baf28bfa55314b80
-timeCreated: 1533996834
+guid: bdced764923f9b140b70566f4c76e2af
+timeCreated: 1534013007
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: polySurface1
+    100004: polySurface2
     400000: //RootNode
+    400002: polySurface1
+    400004: polySurface2
     2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Sosig
+    2300000: polySurface1
+    2300002: polySurface2
+    3300000: polySurface1
+    3300002: polySurface2
+    4300000: polySurface1
+    4300002: polySurface2
+    7400000: Take 001
     9500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: a601a1d2246d7d44cac6831f7f93c491, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

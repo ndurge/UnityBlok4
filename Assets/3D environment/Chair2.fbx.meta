@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: eb0261674ba89284baf28bfa55314b80
-timeCreated: 1533996834
+guid: 7d008a3aa7fd7c74395590ab18f998b9
+timeCreated: 1534012999
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -10,14 +10,9 @@ ModelImporter:
     2100000: lambert1
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Sosig
+    4300000: Eikruk
     9500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: a601a1d2246d7d44cac6831f7f93c491, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

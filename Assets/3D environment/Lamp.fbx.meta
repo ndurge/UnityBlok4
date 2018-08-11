@@ -1,23 +1,97 @@
 fileFormatVersion: 2
-guid: eb0261674ba89284baf28bfa55314b80
-timeCreated: 1533996834
+guid: 75280015525630d4fa6ebb844f13434d
+timeCreated: 1534013001
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
+    100000: EGG
+    100002: Eggs
+    100004: GE
+    100006: GE1
+    100008: GE10
+    100010: GE11
+    100012: GE12
+    100014: GE13
+    100016: GE2
+    100018: GE3
+    100020: GE4
+    100022: GE5
+    100024: GE6
+    100026: GE7
+    100028: GE8
+    100030: GE9
+    100032: //RootNode
+    100034: Sushirol 1
+    400000: EGG
+    400002: Eggs
+    400004: GE
+    400006: GE1
+    400008: GE10
+    400010: GE11
+    400012: GE12
+    400014: GE13
+    400016: GE2
+    400018: GE3
+    400020: GE4
+    400022: GE5
+    400024: GE6
+    400026: GE7
+    400028: GE8
+    400030: GE9
+    400032: //RootNode
+    400034: Sushirol 1
     2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Sosig
+    2300000: EGG
+    2300002: GE
+    2300004: GE1
+    2300006: GE10
+    2300008: GE11
+    2300010: GE12
+    2300012: GE13
+    2300014: GE2
+    2300016: GE3
+    2300018: GE4
+    2300020: GE5
+    2300022: GE6
+    2300024: GE7
+    2300026: GE8
+    2300028: GE9
+    2300030: Sushirol 1
+    3300000: EGG
+    3300002: GE
+    3300004: GE1
+    3300006: GE10
+    3300008: GE11
+    3300010: GE12
+    3300012: GE13
+    3300014: GE2
+    3300016: GE3
+    3300018: GE4
+    3300020: GE5
+    3300022: GE6
+    3300024: GE7
+    3300026: GE8
+    3300028: GE9
+    3300030: Sushirol 1
+    4300000: Sushirol
+    4300002: EGG
+    4300004: GE
+    4300006: GE1
+    4300008: GE2
+    4300010: GE3
+    4300012: GE4
+    4300014: GE5
+    4300016: GE6
+    4300018: GE7
+    4300020: GE8
+    4300022: GE9
+    4300024: GE10
+    4300026: GE11
+    4300028: GE12
+    4300030: GE13
     9500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: a601a1d2246d7d44cac6831f7f93c491, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
