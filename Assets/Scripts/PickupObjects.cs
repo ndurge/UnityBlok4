@@ -36,9 +36,7 @@ public class PickupObjects : MonoBehaviour
 
     void carry(GameObject o)
     {
-        print(o.transform.position);
         o.transform.position = Vector3.Lerp(o.transform.position, mainCamera.transform.position + mainCamera.transform.forward * distance, Time.deltaTime * smooth);
-        o.transform.rotation = Quaternion.identity;
     }
 
     void pickup()
