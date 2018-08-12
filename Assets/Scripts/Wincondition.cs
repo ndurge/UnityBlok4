@@ -26,6 +26,7 @@ public class Wincondition : MonoBehaviour
 
     void NextScene()
     {
-        SceneManager.LoadScene("3Denvironment", LoadSceneMode.Additive);
+        print("next");
+        SceneManager.LoadScene("3Denvironment", LoadSceneMode.Single);
     }
 }

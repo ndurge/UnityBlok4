@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BPW4.unity
+    guid: 80d882ed97ede5c419008b147d553160
+  - enabled: 1
+    path: Assets/Scenes/3Denvironment.unity
+    guid: 69e2893040a93904a827267f6ba223c3
